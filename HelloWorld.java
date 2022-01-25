@@ -4,9 +4,7 @@ public class HelloWorld {
 		System.out.println("Hello, World!"); 
                      System.out.println("Hello, World!"); 
  			  System.out.println("Hello, World!"); 
-<<<<<<< HEAD
                              System.out.println("Hello, World!"); 
-=======
->>>>>>> r1remote/main
+System.out.println("Hello, World!");
     }
 }
